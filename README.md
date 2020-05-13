@@ -1,2 +1,2 @@
 # BOJIT.github.io.files
-Separate repo for standalone project files that accompany my website articles:
+Separate repo for standalone files that accompany my website articles:
